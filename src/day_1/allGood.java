@@ -4,5 +4,7 @@ public class allGood {
     public static void main(String[] args) {
 
         System.out.println("Everything is going to be good!");
+        
+        // this line was edited from the Github
     }
 }
